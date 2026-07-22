@@ -4,6 +4,7 @@ I'm a student at the University of North Alabama
 <h2>Cybersecurity Student</h2>
 > I'm a senior graduating in December of 2026, primarily interested in Digital Forensics. <br>
 > Most proficient with C++, which I used in <a href="https://github.com/Team-34/RapidReact2022" target=_blank>Highschool Robotics</a>
+> Not a fan of Web Development, but you can check <a href="https://github.com/Firmerest/charlie-posting-place" target=_blank>my latest project</a>
 <p align="left">
 
 <h3> Skills </h3>
